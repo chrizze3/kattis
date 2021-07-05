@@ -38,3 +38,7 @@ out/
 *.exe
 *.out
 *.app
+
+# Kattis help files
+*.in
+*.ans
